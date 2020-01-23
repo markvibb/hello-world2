@@ -1,2 +1,2 @@
 # hello-world2
-testovaci projekt 2
+toto je README, testovaci projekt 2
